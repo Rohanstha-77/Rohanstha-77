@@ -3,7 +3,7 @@
 
 - 🔭 I'm Currently learning **react, tailwindcss, mongodb etc**
 
-- 👨‍💻 All of my projects are available at [nikeshshrestha.com.np](nikeshshrestha405.com.np)
+- 👨‍💻 All of my projects are available at [nikeshshrestha405.com.np](nikeshshrestha405.com.np)
 
 - 💬 Ask me about **react, tailwindcss, php**
 
