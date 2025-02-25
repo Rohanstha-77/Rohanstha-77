@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=JoJo+Lapa%F0%9F%99%8F%F0%9F%8F%BC" alt="Typing SVG" /></a><br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+world%F0%9F%99%8F%F0%9F%8F%BC" alt="Typing SVG" /></a><br>
 # 💫 About Me: <br>
 👯 I’m looking to collaborate on a startup<br>🌱 I’m currently learning React, Nextjs, Mongodb
 
